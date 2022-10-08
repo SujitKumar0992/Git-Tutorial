@@ -123,3 +123,12 @@ Example
 ![](./10.Git%20log.PNG)
 
 Shows commit history of the repository
+
+## 13. Git Clone
+```
+git clone <repository url>
+```
+Example
+![](./12.Git%20clone.PNG)
+
+Clones the repository to the local machine.
