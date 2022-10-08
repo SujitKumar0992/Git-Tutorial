@@ -83,7 +83,7 @@ Example
 ![](./8.Git%20pull.PNG)
 
 
-## 8. Merge
+## 9. Merge
 
 ```
 git merge <branch name>
@@ -94,7 +94,7 @@ Example
 Merges changes in given branch to the current branch.
  
 
-## 13. Delete branch
+## 10. Delete branch
 
 ```
 git branch -d <branch name>
