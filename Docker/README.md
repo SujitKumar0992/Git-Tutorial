@@ -90,7 +90,7 @@ Example
 shows the log of container
 
 
-## 10. docker create image
+## 11 docker create image
 ```
 docker build -t <imagename> .
 ```
@@ -100,7 +100,7 @@ Example
 To create a docker image
 
 
-## 10. docker push
+## 12. docker push
 ```
 docker push <username>/<imagename>:latest
 ```
