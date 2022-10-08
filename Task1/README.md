@@ -73,7 +73,7 @@ Example
 
 Switch to the given branch name.
 
-<<<<<<< HEAD
+
 ## 8. Pull
 
 ```
