@@ -82,8 +82,7 @@ git pull
 Example
 ![](./7.Git%20pull.PNG)
 
-Fetches and Pulls the changes from the remote repository to the local branch.
-=======
+
 ## 8. Merge
 
 ```
@@ -93,5 +92,14 @@ Example
 ![](./7.Git%20merge.PNG)
 
 Merges changes in given branch to the current branch.
->>>>>>> dev1
+ 
 
+## 13. Delete branch
+
+```
+git branch -d <branch name>
+```
+Example
+![](./9.Git%20delete%20branch.PNG)
+
+Shows commit history of the repository
