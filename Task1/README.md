@@ -102,4 +102,4 @@ git branch -d <branch name>
 Example
 ![](./9.Git%20delete%20branch.PNG)
 
-Shows commit history of the repository
+delete branch
