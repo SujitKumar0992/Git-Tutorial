@@ -73,6 +73,7 @@ Example
 
 Switch to the given branch name.
 
+<<<<<<< HEAD
 ## 8. Pull
 
 ```
@@ -82,4 +83,15 @@ Example
 ![](./7.Git%20pull.PNG)
 
 Fetches and Pulls the changes from the remote repository to the local branch.
+=======
+## 8. Merge
+
+```
+git merge <branch name>
+```
+Example
+![](./7.Git%20merge.PNG)
+
+Merges changes in given branch to the current branch.
+>>>>>>> dev1
 
