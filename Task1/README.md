@@ -80,7 +80,7 @@ Switch to the given branch name.
 git pull
 ```
 Example
-![](./7.Git%20pull.PNG)
+![](./8.Git%20pull.PNG)
 
 
 ## 8. Merge
