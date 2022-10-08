@@ -1,13 +1,13 @@
-## 3. Git status
+## 1. Git status
 ```
 git status
 ```
 Example
-![](/1.Git Status.PNG)
+![](./1.Git%20Status.PNG)
 
 Shows information about the current changes ( new files added, updated, deleted, renamed etc)
 
-## 4. Git Add
+## 2. Git Add
 ```
 git add .
 ```
@@ -18,23 +18,23 @@ git add <filename>
 ```
 Adds the specic file to the staging area.
 Example
-![](./2.Git add.PNG)
+![](./2.Git%20add.PNG)
 
-## 5. Commit
+## 3. Commit
 ```
 git commit -m "Commit messege"
 ```
 Example
-![](./3.Git Commit.PNG)
+![](./3.Git%20Commit.PNG)
 
 Commits the changes
 
-## 6. Push
+## 4. Push
 
 ```
 git push origin main
 ```
 Example
-![](./4.Git Push.PNG)
+![](./4.Git%20Commit.PNG)
 
 Push the changes in the staging area to the remote main branch. We can replace the main branch with any other branch name.
