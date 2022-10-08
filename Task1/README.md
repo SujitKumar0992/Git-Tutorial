@@ -103,3 +103,13 @@ Example
 ![](./9.Git%20delete%20branch.PNG)
 
 delete branch
+
+## 11. Log
+
+```
+git log
+```
+Example
+![](./10.Git%20log.PNG)
+
+Shows commit history of the repository
