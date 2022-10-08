@@ -35,6 +35,6 @@ Commits the changes
 git push origin main
 ```
 Example
-![](./4.Git%20Commit.PNG)
+![](./4.Git%20Push.PNG)
 
 Push the changes in the staging area to the remote main branch. We can replace the main branch with any other branch name.
