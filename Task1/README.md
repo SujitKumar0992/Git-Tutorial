@@ -73,4 +73,13 @@ Example
 
 Switch to the given branch name.
 
+## 8. Pull
+
+```
+git pull
+```
+Example
+![](./7.Git%20pull.PNG)
+
+Fetches and Pulls the changes from the remote repository to the local branch.
 
