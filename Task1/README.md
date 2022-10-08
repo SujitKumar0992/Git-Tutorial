@@ -38,3 +38,39 @@ Example
 ![](./4.Git%20Push.PNG)
 
 Push the changes in the staging area to the remote main branch. We can replace the main branch with any other branch name.
+
+## 5. Create new branch
+
+```
+git branch <new branch name>
+```
+Example
+![](./5.Git%20create%20new%20branch.PNG)
+
+Creates a new branch with given name.
+
+## 6. List all branch on local
+
+```
+git branch
+```
+Example
+![](./5.Git%20create%20new%20branch.PNG)
+
+Lists all branch that are present on local repository.
+
+## 7. Switch to new branch
+
+```
+git switch <branch name>
+```
+or
+```
+git checkout <branch name>
+```
+Example
+![](./6.Git%20checkout.PNG)
+
+Switch to the given branch name.
+
+
