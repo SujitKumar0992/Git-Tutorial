@@ -73,4 +73,13 @@ Example
 
 Switch to the given branch name.
 
+## 8. Merge
+
+```
+git merge <branch name>
+```
+Example
+![](./7.Git%20merge.PNG)
+
+Merges changes in given branch to the current branch.
 
