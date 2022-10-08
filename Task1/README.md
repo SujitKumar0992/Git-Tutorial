@@ -73,8 +73,18 @@ Example
 
 Switch to the given branch name.
 
+## 8. Fetch
 
-## 8. Pull
+```
+git fetch
+```
+Example
+![](./11.Git%20fetch.PNG)
+
+Updates the repository by downloading the objects and refs.
+
+
+## 9. Pull
 
 ```
 git pull
@@ -83,7 +93,7 @@ Example
 ![](./8.Git%20pull.PNG)
 
 
-## 9. Merge
+## 10. Merge
 
 ```
 git merge <branch name>
@@ -94,7 +104,7 @@ Example
 Merges changes in given branch to the current branch.
  
 
-## 10. Delete branch
+## 11. Delete branch
 
 ```
 git branch -d <branch name>
@@ -104,7 +114,7 @@ Example
 
 delete branch
 
-## 11. Log
+## 12. Log
 
 ```
 git log
